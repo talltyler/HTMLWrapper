@@ -28,7 +28,7 @@ Bootstrap http://getbootstrap.com/getting-started/
 Bootstrap Tools http://www.awwwards.com/bootstrap-customization-themes-ui-patterns-and-tools.html
 ====
 
-Templates for free：
+Templates for free:-
 
 http://templated.co/2
 http://bootstrapzero.com/
@@ -47,7 +47,7 @@ http://webdesignbeat.com/25-responsive-twitter-bootstrap-landing-page-templates/
 http://www.themefounders.com/twitter-bootstrap-wordpress-themes/
 ====
 
-Picture for free：
+Picture for free:-
 
 http://free.com.tw/15-find-free-images/
 http://www.flaticon.com/
